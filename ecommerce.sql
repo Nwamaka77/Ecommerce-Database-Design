@@ -133,7 +133,7 @@ CREATE TABLE product_item (
     ON UPDATE CASCADE
 );
 
--- Create product_variation table
+-- 9. Create product_variation table
 CREATE TABLE product_variation (
   variation_id INT NOT NULL AUTO_INCREMENT,
   product_item_id INT NOT NULL,
