@@ -1,8 +1,8 @@
-E-Commerce Database Design 
+####**E-Commerce Database Design **
 
 This project implements a robust relational database schema for an e-commerce platform. Designed for scalability and flexibility, the database efficiently handles product management, inventory tracking, and complex product variations.
 
-🔄 Data Flow
+🔄 ####****Data Flow
 Product Setup:
 
 Add to product → Assign brand/category → Upload product_images
